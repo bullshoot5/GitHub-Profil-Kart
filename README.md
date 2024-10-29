@@ -10,4 +10,3 @@
 # Ekran görüntüsü
 
 # ![](bes.gif)
-# GitHub-Profil-Kart
